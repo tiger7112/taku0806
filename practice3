@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lag="ja">
+  <head>
+    <meta http-equiv="content-type" charset="utf-8">
+    <title>About</title>
+
+    <meta name="description" content="About">
+
+      <link rel="stylesheet" href="practice3.css">
+  </head>
+  <body>
+
+    <header>
+
+      <div class="container">
+        <a href="file:///Users/taku/Desktop/practice2/profile.html" target="_blank"><img src="IMG_0337.jpg"></a>
+      <h2><a href="file:///Users/taku/Desktop/practice2/profile.html" target="_blank">Taku's Portfolio</a></h2>
+      <ul>
+      <li><a>About</a></li>
+      <li><a href="file:///Users/taku/Desktop/practice4/profile4.html" target="_blank">History</a></li>
+      <li><a href="file:///Users/taku/Desktop/practice5/blog.html" target="_blank">Blog</a></li>
+      <li><a href="file:///Users/taku/Desktop/practice6/contact.html" target="_blank">Contact</a></li>
+      </ul>
+      </div>
+
+    </header>
+
+
+    <div class="main">
+      <h1>Taku's Portfolio</h1>
+
+    </div>
+
+
+    <div class="sub">
+<h1>ABOUT</h1>
+<ul>
+  <li>名 前  :  T a k u</li>
+  <li>職業 : 外資系企業の営業</li>
+  <li>WEBスキル : HTML, CSS, WordPress, SEO, JavaScript</li>
+  <li>英語スキル : TOEIC900</li>
+  <li>詳しくは<a href="file:///Users/taku/Desktop/practice4/profile4.html" target="_blank">History</a></li>
+</ul>
+
+
+<img src="work-731198_1280.jpg" class="work">
+
+
+<img src="agreement-3489902_1280.jpg" class="agreement">
+
+
+
+
+    </div>
+
+
+    <div class="bottom">
+      <h1>FAVORITE</h1>
+      <ul>
+      <li>趣味 : 筋トレ、旅行、読書、温泉、サウナ</li>
+      <li>好きなスポーツ : 野球、バスケ、水泳</li>
+      <li>好きな国 : フィンランド</li>
+      <li>好きな勉強 : プログラミング、語学、読書</li>
+
+      </ul>
+    </div>
+
+
+    <footer>
+      <h2>NEXT</h2>
+      <h1><a href="file:///Users/taku/Desktop/practice4/profile4.html" target="_blank">HISTORY</a></h1>
+    </footer>
+
+
+
+
+
+
+
+
+  </body>
+  </html>
